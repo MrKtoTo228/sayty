@@ -1,0 +1,105 @@
+     body{
+         background-color: rgb(153, 153, 153);
+         text-align: center;
+     }
+     .cae{
+         display: inline-block;
+         width: 14%;
+         background-color: lightgray;
+         text-align: center;
+        border-style: groove;
+        border-width: 3px;
+        border-color: whitesmoke;
+        border-radius: 20px;
+        margin: 10px;
+        box-shadow: 20px 20px 20px rgb(70, 59, 59);
+        }
+     img{
+         width: 100%;
+         border-radius: 20px ;
+     }
+.bite{
+    background-color: navajowhite;
+    color: red;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 8px 8px 8px 8px;
+    width: 40%;
+    
+}
+.almaz{
+    padding: 15px;
+    text-decoration: none;
+    border: 5px;
+    border-color: magenta;
+    border-radius: 5px;
+    border-style: groove;
+    margin: 5px;
+    
+}
+h2{
+    margin: 90px 20px 20px 20px;
+    text-shadow: 2px 2px 2px;
+}
+
+
+.tarifs{
+    margin: 100px 0px 0px 0px;
+    font-size: 30px; 
+    color: rgb(245, 161, 6);
+}
+caption{
+    margin-bottom: 20px;
+    font-size: 40px;
+    color: blue;
+    text-shadow: 1.5px 1.5px 1.5px rgb(3, 3, 180);
+}
+table{
+    margin: 50px auto;
+    width: 80%;
+    border-collapse: collapse;
+}
+tr{
+    background-color: white;
+}
+td{
+    padding-left: 10px;
+    padding-top: 30px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid black;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+}
+.base{
+    color: white;
+    background-color: tomato;
+}
+.pro{
+    color: rgb(17, 190, 243);
+    background-color: rgb(12, 231, 12);
+}
+.golda{
+    color: gold ;
+    background-color: green;
+}
+.dorogo{
+    color: green;
+    background-color: rgb(104, 0, 130);
+}
+th{
+    height: 150px;
+    font-size: 24px;
+    text-shadow: 4px 4px 3px grey;
+}
+.platinalogi{
+    margin: 15px;
+    border: 1px solid rgb(255, 185, 185);
+    width: 200px;
+    display: inline-block;
+    padding: 20px 5px ;
+    text-decoration: none;
+    background-color: red;
+    color: rgb(245, 161, 6);
+    border-radius: 10px;
+}
